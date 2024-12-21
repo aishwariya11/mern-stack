@@ -1,0 +1,14 @@
+body{
+    padding:20px;
+    background-color: aqua;
+}
+ul{
+    color:rgb(43, 0, 255);
+    border:2px solid blueviolet;
+    padding:20px;
+}
+li{
+    padding:20px;
+    border:2px solid rgb(220, 11, 80);
+    font-size: 25px;
+}

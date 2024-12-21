@@ -1,7 +1,15 @@
-li{
-   font-size:50px;
+form{
+   font-size:15px;
    font-weight: bold;
+   color:white;
+   background-color:rgba(238, 15, 238, 0.871);
+   width:50%;
+   height:300px;
+   text-align: center;
+   padding:30px;
+   margin:90px;
+   margin-left: 270px;
 }
 a{
-    font-size:50px;
+    font-size:20px;
 }
