@@ -1,0 +1,9 @@
+.container{
+    display:flex;
+}
+.container .one{
+    margin:20px;
+    padding:30px;
+    border:2px solid;
+    background-color: aqua;
+}

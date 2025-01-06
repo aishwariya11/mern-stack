@@ -1,0 +1,35 @@
+.one{
+    border:2px solid black;
+    position: relative;
+    left:450px;
+    top:50px;
+    /* position: fixed;
+    left:30px; */
+    /* position: sticky;
+    left:20px; */
+    width:300px;
+    padding:30px;
+    background-color:antiquewhite;
+    color:blueviolet;
+}
+.two{
+    border:2px solid black;
+    position: relative;
+    top:50px;
+    left:450px;
+    /* bottom:150px; */
+    width:300px;
+    padding:30px;
+    background-color:aqua;
+    color:blueviolet;
+}
+.three{
+    border:2px solid black;
+    position: relative;
+    top:50px;
+    left:450px;
+    width:300px;
+    padding:30px;
+    background-color: brown;
+    color:white;
+}
